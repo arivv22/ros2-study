@@ -1,0 +1,42 @@
+[0.009s] Invoking command in '/home/arip/Documents/mini-project/ros2-study/build/ros2_fundamentals_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/arip/Documents/mini-project/ros2-study/src/ros2_fundamentals_examples -DCMAKE_INSTALL_PREFIX=/home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples
+[0.055s] -- The C compiler identification is GNU 13.3.0
+[0.102s] -- The CXX compiler identification is GNU 13.3.0
+[0.116s] -- Detecting C compiler ABI info
+[0.188s] -- Detecting C compiler ABI info - done
+[0.198s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.198s] -- Detecting C compile features
+[0.198s] -- Detecting C compile features - done
+[0.208s] -- Detecting CXX compiler ABI info
+[0.294s] -- Detecting CXX compiler ABI info - done
+[0.305s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.305s] -- Detecting CXX compile features
+[0.305s] -- Detecting CXX compile features - done
+[0.309s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.449s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.555s] -- Found ament_lint_auto: 0.17.5 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.670s] -- Added test 'lint_cmake' to check CMake code style
+[0.671s] -- Added test 'xmllint' to check XML markup files
+[0.673s] -- Configuring done (0.7s)
+[0.678s] -- Generating done (0.0s)
+[0.682s] -- Build files have been written to: /home/arip/Documents/mini-project/ros2-study/build/ros2_fundamentals_examples
+[0.687s] Invoked command in '/home/arip/Documents/mini-project/ros2-study/build/ros2_fundamentals_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/arip/Documents/mini-project/ros2-study/src/ros2_fundamentals_examples -DCMAKE_INSTALL_PREFIX=/home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples
+[0.689s] Invoking command in '/home/arip/Documents/mini-project/ros2-study/build/ros2_fundamentals_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/arip/Documents/mini-project/ros2-study/build/ros2_fundamentals_examples -- -j12 -l12
+[0.724s] Invoked command in '/home/arip/Documents/mini-project/ros2-study/build/ros2_fundamentals_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/arip/Documents/mini-project/ros2-study/build/ros2_fundamentals_examples -- -j12 -l12
+[0.733s] Invoking command in '/home/arip/Documents/mini-project/ros2-study/build/ros2_fundamentals_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/arip/Documents/mini-project/ros2-study/build/ros2_fundamentals_examples
+[0.740s] -- Install configuration: ""
+[0.740s] -- Installing: /home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples/share/ament_index/resource_index/package_run_dependencies/ros2_fundamentals_examples
+[0.740s] -- Installing: /home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples/share/ament_index/resource_index/parent_prefix_path/ros2_fundamentals_examples
+[0.740s] -- Installing: /home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/environment/ament_prefix_path.sh
+[0.740s] -- Installing: /home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/environment/ament_prefix_path.dsv
+[0.740s] -- Installing: /home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/environment/path.sh
+[0.740s] -- Installing: /home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/environment/path.dsv
+[0.740s] -- Installing: /home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/local_setup.bash
+[0.741s] -- Installing: /home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/local_setup.sh
+[0.741s] -- Installing: /home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/local_setup.zsh
+[0.741s] -- Installing: /home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/local_setup.dsv
+[0.741s] -- Installing: /home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/package.dsv
+[0.741s] -- Installing: /home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples/share/ament_index/resource_index/packages/ros2_fundamentals_examples
+[0.741s] -- Installing: /home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/cmake/ros2_fundamentals_examplesConfig.cmake
+[0.741s] -- Installing: /home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/cmake/ros2_fundamentals_examplesConfig-version.cmake
+[0.741s] -- Installing: /home/arip/Documents/mini-project/ros2-study/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/package.xml
+[0.743s] Invoked command in '/home/arip/Documents/mini-project/ros2-study/build/ros2_fundamentals_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/arip/Documents/mini-project/ros2-study/build/ros2_fundamentals_examples
