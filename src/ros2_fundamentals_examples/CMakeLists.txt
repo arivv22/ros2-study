@@ -31,7 +31,7 @@ include_directories(include)
 #ament_target_dependencies(minimal_cpp_subscriber ${dependencies})
 
 install(
-  DIRECTORY ros2_fundamentals_examples
+  DIRECTORY ros2_fundamentals_examples scripts
   DESTINATION share/${PROJECT_NAME}
 )
 
@@ -54,6 +54,7 @@ ament_python_install_package(${PROJECT_NAME})
 install (
   PROGRAMS
   ros2_fundamentals_examples/py_minimal_publisher.py
+  ros2_fundamentals_examples/py_minimal_subscirber.py
   DESTINATION lib/${PROJECT_NAME}
 )
 
